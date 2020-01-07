@@ -9,4 +9,4 @@ Filter monsters by name.
 * Reactjs
 * JavaScript
 
-![alt text](./monsters.PNG)
+![alt text](./monsters.png)
