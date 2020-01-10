@@ -16,3 +16,10 @@
 .Card-Container:hover {
   transform: scale(1.05);
 }
+
+@media (max-width: 675px) {
+  .Card-Container {
+    margin: 15px auto;
+    width: 55%;
+  }
+}
