@@ -1,4 +1,4 @@
-# [Forkify](https://rizwan230698.github.io/monsters-rolodex/)
+# [Monsters-rolodex](https://rizwan230698.github.io/monsters-rolodex/)
 ## Introduction
 This is a monsters-rolodex app.
 
